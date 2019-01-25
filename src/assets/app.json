@@ -1,0 +1,49 @@
+[
+  {
+    "type": "pdf",
+    "filename": "Employee Handbook",
+    "date": "2017-01-06"
+  },
+  {
+    "type": "pdf",
+    "name": "Public Holiday policy",
+    "date": "2016-12-06"
+  },
+  {
+    "type": "folder",
+    "filename": "Expenses",
+    "files": [
+      {
+        "type": "doc",
+        "name": "Expenses claim form",
+        "date": "2017-05-02"
+      },
+      {
+        "type": "doc",
+        "filename": "Fuel allowances",
+        "date": "2017-05-03"
+      }
+    ]
+  },
+  {
+    "type": "csv",
+    "filename": "Cost centres",
+    "date": "2016-08-12"
+  },
+  {
+    "type": "folder",
+    "filename": "Misc",
+    "files": [
+      {
+        "type": "doc",
+        "name": "Christmas party",
+        "date": "2017-12-01"
+      },
+      {
+        "type": "mov",
+        "filename": "Welcome to the company!",
+        "date": "2015-04-24"
+      }
+    ]
+  }
+]
