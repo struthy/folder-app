@@ -23,6 +23,7 @@ import {
   MatInputModule
 } from "@angular/material";
 import { AppReadingJsonFilesComponent } from "./app-reading-json-files/app-reading-json-files.component";
+import { FilterFormComponent } from "./filter-form/filter-form.component";
 
 @NgModule({
   declarations: [
@@ -30,7 +31,8 @@ import { AppReadingJsonFilesComponent } from "./app-reading-json-files/app-readi
     MyNavComponent,
     TreeviewComponent,
     AppReadingJsonFilesComponent,
-    DatePicker
+    DatePicker,
+    FilterFormComponent
   ],
   imports: [
     BrowserModule,
